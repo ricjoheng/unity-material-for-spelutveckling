@@ -45,15 +45,15 @@
 | Bensound | [Gratis Musik](https://www.bensound.com/) |
 
 
-## Musik
+## Ljud Effekter
 
 | Webbsida | Beskrivning |
 | ----------- | ----------- |
-| Audio Library | [Gratis Musik](https://www.youtube.com/c/audiolibrary-channel) |
-| Production Crate | [Gratis/ Betald Musik](https://sfx.productioncrate.com/royalty-free-music-categories.html) | 
-| SoundCloud | [Gratis Musik](https://soundcloud.com/fm_freemusic) |
-| Pixabay | [Gratis Musik](https://pixabay.com/music/) | 
-| Bensound | [Gratis Musik](https://www.bensound.com/) |
+| Zapsplat | [Ljud Effekter](https://www.zapsplat.com/) |
+| Production Crate | [Gratis/ Betalda Ljud Effekter](https://sfx.productioncrate.com/sound-fx-categories.html) | 
+| Sample Focus | [Ljud Effekter](https://samplefocus.com/tag/sfx) |
+| Motion Elements | [Ljud Effekter](https://www.motionelements.com/free/sound-effects) | 
+| FreeSound | [Ljud Effekter](https://freesound.org/browse/tags/sound-effects/) |
 
 
 
