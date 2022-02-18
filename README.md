@@ -89,6 +89,18 @@
 | After Effects | [Video](https://www.adobe.com/products/aftereffects.html) | 
 | Sony Vegas | [Video](https://www.vegascreativesoftware.com/us/vegas-pro/) |
 
+## c# Kurser
+
+> Bra c# kurser/ tutorials
+
+| Kanal | Beskrivning |
+| ----------- | ----------- |
+| Brackeys | [Lär dig att programera i c#](https://youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR) |
+| Mosh | [Objekt orienterad programering](https://youtu.be/pTB0EiLXUC8) | 
+| W3Schools | [Lär dig c#](https://www.w3schools.com/cs/index.php) |
+| Codecademy | [C# kurs](https://www.codecademy.com/learn/learn-c-sharp) | 
+| Sony Vegas | [C# nybörjar kurs](https://www.youtube.com/watch?v=GhQdlIFylQ8) |
+
 
 
 
