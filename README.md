@@ -89,7 +89,7 @@
 | After Effects | [Video](https://www.adobe.com/products/aftereffects.html) | 
 | Sony Vegas | [Video](https://www.vegascreativesoftware.com/us/vegas-pro/) |
 
-## c# Kurser
+## C# Kurser
 
 > Bra c# kurser/ tutorials
 
