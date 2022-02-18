@@ -5,7 +5,7 @@
 
 ## Tutorials
 
-| Channel | Beskrivning |
+| Kanal | Beskrivning |
 | ----------- | ----------- |
 | Brackeys | [3D FPS Rörelse](https://youtu.be/XAC8U9-dTZU) |
 | UnityGuy | [Shooting System](https://youtu.be/u0yksFw9PSs) | 
@@ -23,6 +23,16 @@
 | Microsoft     | [Chiller](https://docs.microsoft.com/en-us/typography/font-list/chiller) |
 | DaFont | [Cute Notes](https://www.dafont.com/cute-notes.font) | 
 | Font Meme | [PentaGram's Selemica](https://fontmeme.com/fonts/pentagram-s-salemica-font/) |
+
+## 3D Modeller
+
+| Webbsida | Beskrivning |
+| ----------- | ----------- |
+| Sketchfab | [3D Modeller](https://sketchfab.com/features/free-3d-models) |
+| Turbosquid | [3D Modeller](https://www.turbosquid.com/Search/3D-Models/free) | 
+| Production Crate | [3D Modeller](https://www.productioncrate.com/3D/models.html) |
+| Render Hub | [3D Modeller](https://www.renderhub.com/free-3d-models-page4) | 
+| CreateZilla | [3D Modeller](hhttps://creazilla.com/sections/3-3d-models?page=2) |
 
 
 
