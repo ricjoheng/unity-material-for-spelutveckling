@@ -5,6 +5,8 @@
 
 ## Tutorials
 
+> Bra tutorials
+
 | Kanal | Beskrivning |
 | ----------- | ----------- |
 | Brackeys | [3D FPS Rörelse](https://youtu.be/XAC8U9-dTZU) |
@@ -16,6 +18,8 @@
 
 ## Fonts
 
+> Bra fonts
+
 | Webbsida | Font |
 | ----------- | ----------- |
 | DaFont | [Loves](https://www.dafont.com/loves.font) |
@@ -26,6 +30,8 @@
 
 ## 3D Modeller
 
+> Bra 3d modell sidor
+
 | Webbsida | Beskrivning |
 | ----------- | ----------- |
 | Sketchfab | [3D Modeller](https://sketchfab.com/features/free-3d-models) |
@@ -35,6 +41,8 @@
 | CreateZilla | [3D Modeller](https://creazilla.com/sections/3-3d-models?page=2) |
 
 ## Musik
+
+> Bra musik källor
 
 | Webbsida | Beskrivning |
 | ----------- | ----------- |
@@ -47,6 +55,8 @@
 
 ## Ljud Effekter
 
+> Bra ljud effekt källor
+
 | Webbsida | Beskrivning |
 | ----------- | ----------- |
 | Zapsplat | [Ljud Effekter](https://www.zapsplat.com/) |
@@ -54,6 +64,30 @@
 | Sample Focus | [Ljud Effekter](https://samplefocus.com/tag/sfx) |
 | Motion Elements | [Ljud Effekter](https://www.motionelements.com/free/sound-effects) | 
 | FreeSound | [Ljud Effekter](https://freesound.org/browse/tags/sound-effects/) |
+
+## Bilder/ Videon
+
+> Bra källor för bilder och videon
+
+| Webbsida | Beskrivning |
+| ----------- | ----------- |
+| Pexels | [Bilder/ Videons](https://www.pexels.com/) |
+| Unsplash | [Bilder](https://unsplash.com/images/stock) | 
+| Shutter Stock | [Bilder](https://www.shutterstock.com/photos) |
+| Pixabay | [Bilder](https://pixabay.com/photos/) | 
+| Adobe | [Bilder/ Videon](https://stock.adobe.com/fi/) |
+
+## Program
+
+> Bra program för grafik
+
+| Webbsida | Beskrivning |
+| ----------- | ----------- |
+| Blender | [3D Modelering](https://www.blender.org/) |
+| Photoshop | [2D grafik](https://www.adobe.com/products/photoshop.html) | 
+| Illustrator | [2D grafik](https://www.adobe.com/products/illustrator/free-trial-download.html) |
+| After Effects | [Video](https://www.adobe.com/products/aftereffects.html) | 
+| Sony Vegas | [Video](https://www.vegascreativesoftware.com/us/vegas-pro/) |
 
 
 
